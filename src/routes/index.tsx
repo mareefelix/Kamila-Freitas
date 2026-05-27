@@ -123,7 +123,7 @@ function Hero() {
   return (
     <section id="top" className="relative h-screen min-h-[720px] w-full overflow-hidden">
       <img
-        src="/images/hero.jpg"
+        src="/images/banner_hero.jpg"
         alt="Gestante em ambiente acolhedor entre flores secas"
         width={1080}
         height={1920}
@@ -189,7 +189,7 @@ function About() {
         <div className="lg:col-span-5 lg:col-start-1">
           <div className="relative aspect-[4/5] overflow-hidden bg-clay/5">
             <img
-              src="/images/sobre.jpg"
+              src="/images/sobre_story.jpg"
               alt="Kamila Freitas"
               width={1024}
               height={1280}
@@ -295,7 +295,7 @@ function Services() {
         <div className="lg:col-span-5">
           <div className="relative aspect-[3/4] overflow-hidden">
             <img
-              src="/images/servicos.jpg"
+              src="/images/nossos_servicos.jpg"
               alt="Sessão de acupuntura"
               width={1080}
               height={1440}
@@ -414,7 +414,7 @@ function Benefits() {
           </p>
           <div className="mt-10 relative aspect-[4/3] overflow-hidden max-w-sm">
             <img
-              src="/images/comprovacao.jpg"
+              src="/images/comprovacao_cientifica.jpg"
               alt="Comprovação científica sobre acupuntura e FIV"
               width={1024}
               height={768}
@@ -586,7 +586,7 @@ function Location() {
         <div className="lg:col-span-6">
           <div className="relative aspect-[5/6] overflow-hidden">
             <img
-              src="/images/localizacao.jpg"
+              src="/images/mapa_localizacao.jpg"
               alt="Cuidado e acolhimento"
               width={1024}
               height={1228}
