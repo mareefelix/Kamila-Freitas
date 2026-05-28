@@ -189,7 +189,7 @@ function About() {
         <div className="lg:col-span-5 lg:col-start-1">
           <div className="relative aspect-[4/5] overflow-hidden bg-clay/5">
             <img
-              src="/images/sobre_story.jpg"
+              src="/images/sobre_story-1.jpg"
               alt="Kamila Freitas"
               width={1024}
               height={1280}
@@ -295,7 +295,7 @@ function Services() {
         <div className="lg:col-span-5">
           <div className="relative aspect-[3/4] overflow-hidden">
             <img
-              src="/images/nossos_servicos.jpg"
+              src="/images/nossos_servicos-1.jpg"
               alt="Sessão de acupuntura"
               width={1080}
               height={1440}
@@ -586,7 +586,7 @@ function Location() {
         <div className="lg:col-span-6">
           <div className="relative aspect-[5/6] overflow-hidden">
             <img
-              src="/images/mapa_localizacao.jpg"
+              src="/images/mapa_localizacao-1.jpg"
               alt="Cuidado e acolhimento"
               width={1024}
               height={1228}
